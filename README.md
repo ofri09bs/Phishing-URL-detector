@@ -38,3 +38,4 @@ Given that the dataset is imbalanced (containing more legitimate URLs than phish
 * Scikit-learn (sklearn) (For feature engineering, model training, and evaluation)
 * Matplotlib / Seaborn (For data visualization)
 * Jupyter Notebook / Google Colab (As the development environment)
+* here is a link for the full dataset: https://www.kaggle.com/datasets/taruntiwarihp/phishing-site-urls
