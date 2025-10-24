@@ -29,7 +29,6 @@ Given that the dataset is imbalanced (containing more legitimate URLs than phish
      bad       0.57      0.73      0.64     31200
     good       0.88      0.78      0.83     78670
 
-accuracy                           0.77    109870
 (you can see full resaults in the file)
 
 ## 🛠️ Technologies & Libraries
