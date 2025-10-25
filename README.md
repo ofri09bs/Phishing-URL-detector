@@ -4,6 +4,10 @@ This project utilizes machine learning to classify URLs as either "legitimate" (
 
 The model is trained on a dataset of URLs and employs a feature engineering process to identify suspicious patterns within the URL string itself, rather than relying on the website's content.
 
+*note*: because of the database I choose , the model is a bit racist to google links 
+
+To use the python app , please put the model file (that will be created when you run the notebook) in the same folder as the python scrips.
+
 ## 🚀 Feature Engineering
 
 The core of this project is the extraction of a robust set of features from each URL. The primary features engineered for each URL include:
