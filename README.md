@@ -24,10 +24,10 @@ Given that the dataset is imbalanced (containing more legitimate URLs than phish
 
 **Final Performance on the Test Set:**
 
-            precision   recall   f1-score   support
+              precision    recall  f1-score   support
 
-     bad       0.57      0.73      0.64     31200
-    good       0.88      0.78      0.83     78670
+         bad       0.61      0.75      0.67     31200
+        good       0.89      0.81      0.85     78670
 
 (you can see full resaults in the file)
 
